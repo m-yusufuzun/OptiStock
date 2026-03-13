@@ -44,7 +44,7 @@ Bu proje şu an için Google Play Store'da yayınlanmamıştır. Test cihazını
 
 ## ⚠️ Yasal Uyarı ve Fikri Mülkiyet (IP) Hakları
 
-Bu depo (repository) yalnızca **OptiStock** projesinin tanıtımı, jüri değerlendirmesi ve Demo APK'sının dağıtımı amacıyla halka açık (Public) olarak sunulmuştur. 
+Bu depo (repository) yalnızca **OptiStock** projesinin tanıtımı, eğerlendirme ve Demo APK'sının dağıtımı amacıyla halka açık (Public) olarak sunulmuştur. 
 
 Uygulamanın kaynak kodları kapalıdır (Closed-Source). Bu depoda yer alan yazılımın, APK dosyasının veya tasarımların ticari amaçla kullanılması, kopyalanması, tersine mühendislik (reverse engineering) yapılması veya izinsiz dağıtılması **KESİNLİKLE YASAKTIR**. 
 

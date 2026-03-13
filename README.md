@@ -1,0 +1,1 @@
+⚠️ Yasal Uyarı: Bu repo yalnızca projenin tanıtımı ve Demo APK'sının dağıtımı için açılmıştır. Kaynak kodları kapalıdır (Closed-Source) ve ticari kullanımı kesinlikle yasaktır. Detaylar için LICENSE dosyasına bakınız.

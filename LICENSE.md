@@ -3,7 +3,7 @@ Copyright (c) 2026 Muhammed Yusuf Uzun (YF Code) - Tüm Hakları Saklıdır.
 BU BİR AÇIK KAYNAK (OPEN SOURCE) PROJESİ DEĞİLDİR.
 
 1. İzin Verilen Kullanımlar:
-Bu depoda sunulan .apk dosyası, yalnızca jüri değerlendirmesi, eğitim amaçlı inceleme ve bireysel test (demo) kullanımı amacıyla indirilip kurulabilir.
+Bu depoda sunulan .apk dosyası, yalnızca değerlendirme, eğitim amaçlı inceleme ve bireysel test (demo) kullanımı amacıyla indirilip kurulabilir.
 
 2. Yasaklanmış Kullanımlar:
 - Bu yazılımın herhangi bir parçasının (APK dâhil) ticari amaçlarla kullanılması, satılması veya kiralanması KESİNLİKLE YASAKTIR.
